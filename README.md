@@ -2,4 +2,4 @@
 just a dumb macro for the crystals 
 
 
-run the code in administrator or it wont work thats it
+run the macro in administrator or it wont work thats it
